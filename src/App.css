@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap");
+
+.wrapper,
+html {
+  background-color: rgba(231, 230, 230, 0.541);
+  font-family: "Poppins", sans-serif;
+}
+
+.gender {
+  border: 1px solid rgba(201, 200, 200, 0.541);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+  min-width: 115px;
+  padding: 6px 4px;
+}
+
+.small-text {
+  font-size: 0.8rem;
+}
+
+.btn {
+  background-color: rgb(13, 165, 13);
+}
